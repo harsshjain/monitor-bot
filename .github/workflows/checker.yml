@@ -2,7 +2,7 @@ name: Website Checker
 
 on: 
   schedule:
-    # every 15 minutes the job will run
+    # every 15 minutes the job will run.
     - cron: "*/15 * * * *"
   push:
     branches:
