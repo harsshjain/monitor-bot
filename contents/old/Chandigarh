@@ -102,7 +102,8 @@
 <header id="header">
 <div class="container">
 <div class="row">
-<a class="btn btn-danger reportbtn" href="http://chdcovid19.in/chdcovidbed19" target="_blank">Check Beds Availability <i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-danger reportbtnleft" href="http://chdcovid19.in/chdcovidbed19" target="_blank">Check Beds Availability <i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-danger reportbtnright d-none" href="http://chdcovid19.in/chdcovidbed19" target="_blank">Mobile Vaccination &amp; Testing Team Schedule <i class="fa fa-arrow-right"></i></a>
 <div class="col-md-2 d-none d-md-block d-lg-block">
 <div class="logo pull-right">
 <a href="http://chdcovid19.in/"><img alt="" class="img-fluid" src="http://chdcovid19.in/assets/img/Chandigarh-Administration.png"/>
@@ -935,7 +936,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2021-06-25T08:30:20.106Z
+    [lastRefreshed] =&gt; 2021-06-25T08:47:20.254Z
     [lastOriginUpdate] =&gt; 2021-06-25T02:30:00.000Z
 )
 
